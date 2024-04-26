@@ -53,7 +53,7 @@
 <i>Let's connect and chat! Open to anything under the sun.</i><br>
 <p align="center">
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="[https://linkedin.com/in/abhinav-bohra](https://www.linkedin.com/in/sarbajit-neogi-995136229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
+	<a href="[https://linkedin.com/in/Sarbajit Neogi]">
 		<img alt="Sarbajit Neogi - LinkedIn" width="42px" src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/linkedin.svg"/>
 	</a>
 	<a href="mailto:neogisarbajit080103@gmail.com">
