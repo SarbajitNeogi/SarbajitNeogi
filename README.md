@@ -53,20 +53,17 @@
 <i>Let's connect and chat! Open to anything under the sun.</i><br>
 <p align="center">
 	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-	<a href="https://linkedin.com/in/abhinav-bohra">
-		<img alt="Abhinav Bohra - LinkedIn" width="42px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/linkedin.svg"/>
+	<a href="[https://linkedin.com/in/abhinav-bohra](https://www.linkedin.com/in/sarbajit-neogi-995136229?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)">
+		<img alt="Sarbajit Neogi - LinkedIn" width="42px" src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/linkedin.svg"/>
 	</a>
-	<a href="https://scholar.google.com/citations?user=F51Ct9oAAAAJ&hl=en&oi=ao">
-		<img alt="Abhinav Bohra - Google Scholar" width="42px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/google_scholar.svg"/>
+	<a href="mailto:neogisarbajit080103@gmail.com">
+		&nbsp;&nbsp;<img alt="Sarbajit Neogi - Mail" width="42px" src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/email.svg"/>
 	</a>
-	<a href="mailto:abhinavbohra01@gmail.com">
-		&nbsp;&nbsp;<img alt="Abhinav Bohra - Mail" width="42px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/email.svg"/>
+	<a href="https://instagram.com/freddiefan2505">
+		&nbsp;&nbsp;<img alt="Sarbajit Neogi - Instagram" width="42px" src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/ig.svg"/>
 	</a>
-	<a href="https://instagram.com/abhinavbohra01">
-		&nbsp;&nbsp;<img alt="Abhinav Bohra - Instagram" width="42px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/ig.svg"/>
-	</a>
-	<a href="https://facebook.com/abhinavbohra01">
-		&nbsp;&nbsp;<img alt="Abhinav Bohra - Facebook" width="42px" src="https://github.com/abhinav-bohra/abhinav-bohra/blob/main/icons/fb.svg"/>
+	<a href="https://www.facebook.com/share/3JTq5YP6BRwCUoTm/?mibextid=qi2Omg">
+		&nbsp;&nbsp;<img alt="Sarbajit Neogi - Facebook" width="42px" src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/fb.svg"/>
 	</a>
 <!-- <img align="right" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-peace.png" height="140" title="Peace" /> -->
 </p><br><br>
