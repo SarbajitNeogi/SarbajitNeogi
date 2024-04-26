@@ -4,24 +4,24 @@
 <!--Intro Section-->
 <img src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/intro.gif" width="30%" align="right">
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/icons/cs.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Dual Degree Computer Science & Engineering student.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/icons/ai.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Interested in Artificial Intelligence & Software Development.<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/icons/dj.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;When not coding, I like to make EDM :metal:<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/icons/manu.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;If you are a Manchester United fan, we are already friends. GGMU :) :heart: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/icons/cv.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Here's more about my work experience [(Resume)](https://abhinavbohra.technology/files/Abhinav_Bohra_Resume.pdf) <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/cs.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Btech Degree Computer Science & Engineering.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/ai.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Interested in Artificial Intelligence & Software Development.<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/dj.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;When not coding, I like to make EDM :metal:<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/manu.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;If you are a Barcelona fan, we are already friends. GGMU :) :heart: <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/cv.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Here's more about my work experience [(Resume)](https://abhinavbohra.technology/files/Abhinav_Bohra_Resume.pdf) <br><br>
 
 <!--Skills Section-->
 ## My Tech Stack
 <p align="left">
 	<h4> Programming Lanauges</h4><p>
 	<img src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/c.svg" alt="C" width="40" height="40" />&nbsp;
-	<img src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/icons/cpp.svg" alt="C++" width="40" height="40" />&nbsp;
-	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/python.svg" alt="python" width="40" height="40" />&nbsp;
-	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/java.svg" alt="java" width="40" height="40" />&nbsp;
-	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/javascript.svg" alt="javascript" width="40" height="40" />&nbsp;
+	<img src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/cpp.svg" alt="C++" width="40" height="40" />&nbsp;
+	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/python.svg" alt="python" width="40" height="40" />&nbsp;
+	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/java.svg" alt="java" width="40" height="40" />&nbsp;
+	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/javascript.svg" alt="javascript" width="40" height="40" />&nbsp;
 	<img src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/mysql.svg" alt="SQL" width="40" height="40" />&nbsp;
 	<img src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/git.svg" alt="Git" width="40" height="40" />&nbsp;
-	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/uml.svg" alt="UML" width="40" height="40" />&nbsp;
+	<img src="https://github.com/PKief/vscode-material-icon-theme/blob/main/icons/uml.svg" alt="UML" width="40" height="40" />&nbsp;
 	<img src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/html.svg" alt="HTML" width="40" height="40" />&nbsp;
 	<img src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/css.svg" alt="CSS" width="40" height="40" />&nbsp;
 	<img src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/bash1.svg" alt="Bash" width="40" height="40" />&nbsp;</p>
@@ -73,6 +73,6 @@
 
 <!-- Profile Views -->
 
-<p align="left"><img src="https://komarev.com/ghpvc/?username=abhinav-bohra&label=Profile%20views&color=0e75b6&style=flat" alt="abhinav-bohra" height=21px/></p>
+<p align="left"><img src="https://komarev.com/ghpvc/?username=SarbajitNeogi&label=Profile%20views&color=0e75b6&style=flat" alt="Sarbajit Neogi" height=21px/></p>
 
-**[Visit my website &rarr;](https://abhinav-bohra.github.io/)**
+
