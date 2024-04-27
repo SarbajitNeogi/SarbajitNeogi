@@ -62,7 +62,7 @@
 		&nbsp;&nbsp;<img alt="Sarbajit Neogi - Discord" width="42px" src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/discord-icon-svgrepo-com.svg"/>
 	</a>
 	<a href="https://instagram.com/freddiefan2505">
-		&nbsp;&nbsp;<img alt="Sarbajit Neogi - Instagram" width="42px" src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/ig.svg"/>
+		&nbsp;&nbsp;<img alt="Sarbajit Neogi - Instagram" width="42px" src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/icons8-instagram.svg"/>
 	</a>
 	<a href="https://facebook.com/gustavo.alcaraz.1610">
 		&nbsp;&nbsp;<img alt="Sarbajit Neogi - Facebook" width="42px" src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/facebook-svgrepo-com.svg"/>
