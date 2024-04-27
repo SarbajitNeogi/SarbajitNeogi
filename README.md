@@ -65,7 +65,7 @@
 		&nbsp;&nbsp;<img alt="Sarbajit Neogi - Instagram" width="42px" src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/ig.svg"/>
 	</a>
 	<a href="https://facebook.com/gustavo.alcaraz.1610">
-		&nbsp;&nbsp;<img alt="Sarbajit Neogi - Facebook" width="42px" src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/fb.svg"/>
+		&nbsp;&nbsp;<img alt="Sarbajit Neogi - Facebook" width="42px" src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/facebook-svgrepo-com.svg"/>
 	</a>
 <!-- <img align="right" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-peace.png" height="140" title="Peace" /> -->
 </p><br><br>
