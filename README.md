@@ -68,6 +68,7 @@
 		&nbsp;&nbsp;<img alt="Sarbajit Neogi - Facebook" width="42px" src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/facebook-svgrepo-com.svg"/>
 	</a>
 <!-- <img align="right" src="https://res.cloudinary.com/murshidazher/image/upload/w_auto,dpr_1.0,c_scale,f_webp,fl_awebp.progressive.progressive:semi,f_webp,fl_awebp,q_100/readme-peace.png" height="140" title="Peace" /> -->
+	<img src="https://raw.githubusercontent.com/deepraj21/deepraj21/output/snake.svg" alt="Snake animation" />
 </p><br><br>
 
 <!-- Profile Views -->
