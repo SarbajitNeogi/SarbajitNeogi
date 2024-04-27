@@ -52,12 +52,14 @@
 <p align="center">
 <i>Let's connect and chat! Open to anything under the sun. 🌇:</i><br>
 <p align="center">
-	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 	<a href="https://www.linkedin.com/in/sarbajit-neogi-995136229">
 		<img alt="Sarbajit Neogi - LinkedIn" width="42px" src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/linkedin.svg"/>
 	</a>
 	<a href="mailto:neogisarbajit080103@gmail.com">
 		&nbsp;&nbsp;<img alt="Sarbajit Neogi - Mail" width="42px" src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/email.svg"/>
+	</a>
+	<a href="">
+		&nbsp;&nbsp;<img alt="Sarbajit Neogi - Discord" width="42px" src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/discord-icon-svgrepo-com.svg"/>
 	</a>
 	<a href="https://instagram.com/freddiefan2505">
 		&nbsp;&nbsp;<img alt="Sarbajit Neogi - Instagram" width="42px" src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/ig.svg"/>
