@@ -8,7 +8,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/ai.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Interested in Artificial Intelligence & Software Development.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/dj.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;When not coding, I like to make EDM :metal:<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/fc-barcelona.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;If you are a Barcelona fan, we are already friends. Culers :) :heart: <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/cv.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Here's more about my work experience [(Resume)](https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/SarbajitResume__1_%20(1).pdf) <br><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/cv.svg" alt="C" width="20" height="20" />&nbsp;&nbsp;Here's more about my work experience [(Resume)](https://github.com/SarbajitNeogi/SarbajitNeogi/blob/main/SarbajitResume__Final.pdf) <br><br>
 
 <!--Skills Section-->
 ## My Tech Stack
